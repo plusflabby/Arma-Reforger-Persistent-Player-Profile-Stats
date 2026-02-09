@@ -18,7 +18,6 @@ Persistent Player Profiles is a comprehensive stat tracking system for Arma Refo
 - **Community Building** - Leaderboards and Discord integration foster competition
 - **Administration Tools** - Track player activity, connections, and behavior
 - **Customizable** - Full control over what data is tracked and displayed
-- **Free & Open Source** - No costs, fully transparent
 
 ### 🚀 Quick Setup
 
